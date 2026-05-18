@@ -1,0 +1,1102 @@
+{
+  "name": "StS Big Zam",
+  "game_version": null,
+  "created_by": "FloraColossus",
+  "mods": [
+    {
+      "name": "Act Name",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "147743544d0f50de06808efdb5ff03a95f5c689e7cc590de43faab48091db5a7",
+      "files": [
+        "dist\\ActName.dll",
+        "dist\\ActName.json",
+        "dist\\ActName.pck"
+      ],
+      "folder_name": "dist",
+      "mod_id": "ActName",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Act_Name_v1.0.0_3a4c83c5.zip",
+      "bundle_sha256": "3a4c83c56c218c591b03d2daede118ea1b5b7a0b010ff3bf60bfcc5497f9a6a9"
+    },
+    {
+      "name": "Aeonglass Feminization",
+      "version": "1.2.0",
+      "source": "github:kiteseven/Aeonglass-Feminization",
+      "hash": "bbc777c23ccd14c866f57afdf5ddb0acb62c21008386f63af61dd2e3df3ad7e1",
+      "files": [
+        "Aeonglass Feminization1.2\\Aeonglass Feminization.json",
+        "Aeonglass Feminization1.2\\Aeonglass Feminization.pck"
+      ],
+      "folder_name": "Aeonglass Feminization1.2",
+      "mod_id": "Aeonglass Feminization",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Aeonglass_Feminization_v1.2.0_a99ecd4c.zip",
+      "bundle_sha256": "a99ecd4c13e0506d91a19a907777f07546c6fdb54f8795411df8363293316ed8"
+    },
+    {
+      "name": "Ancients Awakened",
+      "version": "v1.2.2",
+      "source": "github:BubbleTanks/AncientsAwakened",
+      "hash": "5ac0a6be93fe3274bc86a7bcb65cced3a3b04c3578950fd26e5e8c2bbeddf226",
+      "files": [
+        "AncientsAwakened\\AncientsAwakened.dll",
+        "AncientsAwakened\\AncientsAwakened.json",
+        "AncientsAwakened\\AncientsAwakened.pck"
+      ],
+      "folder_name": "AncientsAwakened",
+      "mod_id": "AncientsAwakened",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Ancients_Awakened_v1.2.2_63ac430c.zip",
+      "bundle_sha256": "63ac430cf94cfeff72e9dc224643c8356cefbd3b39d0a6efcfa519acdab3aaea"
+    },
+    {
+      "name": "Anime Defect",
+      "version": "0.3",
+      "source": null,
+      "hash": "2c3ab564c9100d8a7d4f5f1bc8021b2c35a70995e9981e409e9dd2b1d1bc49c7",
+      "files": [
+        "animeDefect\\animeDefect.pck",
+        "animeDefect\\mod_manifest.json"
+      ],
+      "folder_name": "animeDefect",
+      "mod_id": "animeDefect",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Anime_Defect_v0.3_8674bca1.zip",
+      "bundle_sha256": "8674bca15bcbe7eec059752dc5ec9d581e68540d46a654784a689c939bb6230c"
+    },
+    {
+      "name": "AnotherAncientStarter",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "09a4c7c426814804cf8a9480c4da6b442fba6d4ac3156d1510af784ebe13736c",
+      "files": [
+        "AnotherAncientStarter\\AnotherAncientStarter.dll",
+        "AnotherAncientStarter\\AnotherAncientStarter.json",
+        "AnotherAncientStarter\\AnotherAncientStarter.pck"
+      ],
+      "folder_name": "AnotherAncientStarter",
+      "mod_id": "AnotherAncientStarter",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/AnotherAncientStarter_v0.0.1_43ecb439.zip",
+      "bundle_sha256": "43ecb439d3f887514175606d2e409b4bdfd77ca2c019a8e53a5ea1a6ed247cc1"
+    },
+    {
+      "name": "Aphrodite Ancient",
+      "version": "v0.1.6",
+      "source": "github:JohnnyBazooka89/StS2ModAphroditeAncient",
+      "hash": "16ed3a3487ab7eea4557495b8f74780a7edf2d764f708db661001af77d1cf99e",
+      "files": [
+        "AphroditeAncient\\AphroditeAncient.dll",
+        "AphroditeAncient\\AphroditeAncient.json",
+        "AphroditeAncient\\AphroditeAncient.pck"
+      ],
+      "folder_name": "AphroditeAncient",
+      "mod_id": "AphroditeAncient",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Aphrodite_Ancient_v0.1.6_c544ff41.zip",
+      "bundle_sha256": "c544ff4198e6b2a853fbecf1b4e850d33303be3cbadcc1bbba1ae2122219452f"
+    },
+    {
+      "name": "Arq's Ancients: Phoenix",
+      "version": "v0.0.1",
+      "source": "github:LinnielDW/ArqPhoenixAncient",
+      "hash": "1d56b127d586047b24818a980e9e3742162c91f52a6493274f6200f0673a2833",
+      "files": [
+        "ArqPhoenixAncient\\ArqPhoenixAncient.dll",
+        "ArqPhoenixAncient\\ArqPhoenixAncient.json",
+        "ArqPhoenixAncient\\ArqPhoenixAncient.pck"
+      ],
+      "folder_name": "ArqPhoenixAncient",
+      "mod_id": "ArqPhoenixAncient",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Arq.s_Ancients__Phoenix_v0.0.1_35bb9b7b.zip",
+      "bundle_sha256": "35bb9b7bede422bde4bd078c7705a6470d6ab43ebd3b57c00f9f5a28379392b7"
+    },
+    {
+      "name": "AstroScope",
+      "version": "1.0.0",
+      "source": "github:entwico/astroscope",
+      "hash": "0faae07fc2213a3cd86c5e3513acdddc61405c071f55c8139235106fddbc0fcf",
+      "files": [
+        "AstroScope\\AstroScope.dll",
+        "AstroScope\\AstroScope.pdb",
+        "AstroScope\\mod_manifest.json"
+      ],
+      "folder_name": "AstroScope",
+      "mod_id": "AstroScope",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/AstroScope_v1.0.0_bc2d5001.zip",
+      "bundle_sha256": "bc2d5001e3fbf5838be70a7980afbefa449d409ca152b5bb5cf0772b6e2db202"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.3",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "9e950d70598706e8cc47d05a1f64bb2836b4c1bdd8d1729a1e278c268e148829",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_a7e35718.zip",
+      "bundle_sha256": "a7e35718fbd71534f5f21536428f8fbb3c605336947d6ef6c99437e77c9a23c7"
+    },
+    {
+      "name": "Better Mod Menu",
+      "version": "0.0.5",
+      "source": null,
+      "hash": "a94c35920157eb4e446e757e5d78b501b19216793b0e011da4654c718705f3c6",
+      "files": [
+        "BetterModMenu\\BetterModMenu.dll",
+        "BetterModMenu\\BetterModMenu.json"
+      ],
+      "folder_name": "BetterModMenu",
+      "mod_id": "BetterModMenu",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.5_b99829d1.zip",
+      "bundle_sha256": "b99829d1bd18172531bd16b330a16305a0d6951a30bf7df354fdfee674eb3edc"
+    },
+    {
+      "name": "Booba Necrobinder Mod",
+      "version": "v1.0.7",
+      "source": null,
+      "hash": "9b95a3c4635a5e2b51e963314435d0f8cf35f1ced22b213d87e82797f533cde0",
+      "files": [
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.dll",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.json",
+        "Booba-Necrobinder-Mod\\Booba-Necrobinder-Mod.pck"
+      ],
+      "folder_name": "Booba-Necrobinder-Mod",
+      "mod_id": "Booba-Necrobinder-Mod",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Booba_Necrobinder_Mod_v1.0.7_3c1fd39b.zip",
+      "bundle_sha256": "3c1fd39b4c031b78d9a6e656b589a2da1bc2e1908438e73367ddb2a310a51d22"
+    },
+    {
+      "name": "BoosterPackMod",
+      "version": "v0.0.1",
+      "source": "github:thescienceofnerds/Booster-pack-modules-for-python",
+      "hash": "d3664688522ef345f0182d32d7ce498ffd1f6061c7f328f9ee1293ea2d70a26d",
+      "files": [
+        "BoosterPackMod\\BoosterPackMod.dll",
+        "BoosterPackMod\\BoosterPackMod.json",
+        "BoosterPackMod\\BoosterPackMod.pck"
+      ],
+      "folder_name": "BoosterPackMod",
+      "mod_id": "BoosterPackMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/BoosterPackMod_v0.0.1_6674377f.zip",
+      "bundle_sha256": "6674377f266298e0f9b063d773246acbc957b51ab7385d90f2c0307c63cae393"
+    },
+    {
+      "name": "Card Overhaul",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "db41fbbf0ba6ee8ebbc6d384e9372f63afc8b8f682dca1956aa402f163b73fd8",
+      "files": [
+        "CardOverhaul\\CardOverhaul.dll",
+        "CardOverhaul\\CardOverhaul.json",
+        "CardOverhaul\\CardOverhaul.pck"
+      ],
+      "folder_name": "CardOverhaul",
+      "mod_id": "CardOverhaul",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Card_Overhaul_v1.0.0_48203362.zip",
+      "bundle_sha256": "48203362112dd81bb0a09abe4bada3799c77e8794f6d7fafb8e099e49f713c74"
+    },
+    {
+      "name": "Chimera Cards",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "04a876b41902c4a7e6023e2871c612298cc04cf112a352b679be5aed803e18b3",
+      "files": [
+        "ChimeraCards\\ChimeraCards.dll",
+        "ChimeraCards\\ChimeraCards.json",
+        "ChimeraCards\\ChimeraCards.pck"
+      ],
+      "folder_name": "ChimeraCards",
+      "mod_id": "ChimeraCards",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Chimera_Cards_v0.0.1_8fc871f7.zip",
+      "bundle_sha256": "8fc871f7528850099d63dfd34ab3f210d6f43b6c595116ad4e93e2284ed19fed"
+    },
+    {
+      "name": "Cirno",
+      "version": "0.6",
+      "source": null,
+      "hash": "c141e6b31895ed503a49ad6b1d71d5ffc7d91f5b9d51a5ec50cd6c53c6831ba1",
+      "files": [
+        "Cirno\\Cirno.dll",
+        "Cirno\\Cirno.json",
+        "Cirno\\Cirno.pck"
+      ],
+      "folder_name": "Cirno",
+      "mod_id": "Cirno",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Cirno_v0.6_79af3ba1.zip",
+      "bundle_sha256": "79af3ba1bd4f198f209923a8f011482d06da2c166ce4b19ca4f6e5d632426370"
+    },
+    {
+      "name": "Combat Performance Bonus",
+      "version": "0.0.6",
+      "source": null,
+      "hash": "f27159223c3231cd7dec8ace7ce1e4ca023915015e5a89b2ee887e6a66fab885",
+      "files": [
+        "CombatPerformanceBonus\\CombatPerformanceBonus.dll",
+        "CombatPerformanceBonus\\CombatPerformanceBonus.json",
+        "CombatPerformanceBonus\\CombatPerformanceBonus.pdb"
+      ],
+      "folder_name": "CombatPerformanceBonus",
+      "mod_id": "CombatPerformanceBonus",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Combat_Performance_Bonus_v0.0.6_ee845390.zip",
+      "bundle_sha256": "ee845390528e0c571b06f3aca49d7671cb6535e80050564e1ff727e75cda1d68"
+    },
+    {
+      "name": "Consistent Card Rewards",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "8aa6157499ae8bc1d7d478cfc23a90d4477dbca0d371b9c1a054b1e748092ace",
+      "files": [
+        "ConsistentCardRewards\\ConsistentCardRewards.dll",
+        "ConsistentCardRewards\\ConsistentCardRewards.json"
+      ],
+      "folder_name": "ConsistentCardRewards",
+      "mod_id": "ConsistentCardRewards",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Consistent_Card_Rewards_v1.0.0_d3760d6d.zip",
+      "bundle_sha256": "d3760d6d56ba0c74c06175f5a207b886c50118fe55b0102599c1f5c5e40bf787"
+    },
+    {
+      "name": "Deadcells mod",
+      "version": "v0.1.5",
+      "source": "github:Plagued-VII/DeadCellsMod",
+      "hash": "44a738b958213af72c9ed373d335f9c27acfc3888ca20182c6322d13b095f8d7",
+      "files": [
+        "Deadcells\\Deadcells.dll",
+        "Deadcells\\Deadcells.json",
+        "Deadcells\\Deadcells.pck"
+      ],
+      "folder_name": "Deadcells",
+      "mod_id": "Deadcells",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Deadcells_mod_v0.1.5_3537effd.zip",
+      "bundle_sha256": "3537effdd5e35af5fba5ef86c53c2b080af19540e0d6b5f83a5f3c4914790ff4"
+    },
+    {
+      "name": "defect-full-art.cardartpack",
+      "version": "0.0.0",
+      "source": "github:2145057603/sts2-CardArtEditor",
+      "hash": "2095d570b9f303c31df22f2937ffe97da087c396ffd98aab595423d22b1bdc11",
+      "files": [
+        "DefectFullArt CardArtEditor Pack V0.1.0\\defect-full-art.cardartpack.json",
+        "DefectFullArt CardArtEditor Pack V0.1.0\\README.md"
+      ],
+      "folder_name": "DefectFullArt CardArtEditor Pack V0.1.0",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/defect-full-art_cardartpack_v0.0.0_1c925d66.zip",
+      "bundle_sha256": "1c925d6663ebd7f05e8b277709c2b95572f75fa770d515fdbc3b455a5cd178bb"
+    },
+    {
+      "name": "Dota 2 Relics",
+      "version": "1.0.2",
+      "source": null,
+      "hash": "22d336245a9e5dc64e95ca3de5b61d8d3d5163ba7eb9fef4817dfadd1ea8eb30",
+      "files": [
+        "Dota2Relics\\Dota2Relics.dll",
+        "Dota2Relics\\Dota2Relics.json",
+        "Dota2Relics\\Dota2Relics.pck"
+      ],
+      "folder_name": "Dota2Relics",
+      "mod_id": "Dota2Relics",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Dota_2_Relics_v1.0.2_260d3152.zip",
+      "bundle_sha256": "260d3152dbd69c971534d35e464b066a798af98edb22e291bfe39d86d9949f99"
+    },
+    {
+      "name": "Dynamic Card Rewards",
+      "version": "1.1.1",
+      "source": null,
+      "hash": "dcb749b78e19cd64bf871c7803b3fbf42e3a7f0fca607bca1e1d7dec1a57f3dd",
+      "files": [
+        "DynamicCardRewards\\DynamicCardRewards.dll",
+        "DynamicCardRewards\\DynamicCardRewards.json",
+        "DynamicCardRewards\\DynamicCardRewards.pck"
+      ],
+      "folder_name": "DynamicCardRewards",
+      "mod_id": "DynamicCardRewards",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.1_9612fb2d.zip",
+      "bundle_sha256": "9612fb2dfa6f94cc4040caccc4bc715366214ec01a6fcf638a774737b38ff48f"
+    },
+    {
+      "name": "ElectricShrympPowers",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "6abe229f3456d75518060e2496499811376c9acfec3eaba601101473c02c47f9",
+      "files": [
+        "ElecShrympPowers\\ElectricShrympPowers.dll",
+        "ElecShrympPowers\\ElectricShrympPowers.json"
+      ],
+      "folder_name": "ElecShrympPowers",
+      "mod_id": "ElectricShrympPowers",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/ElectricShrympPowers_v1.0.0_6092915b.zip",
+      "bundle_sha256": "6092915b2e0a500cfa398a93cd8a4012f556a4fe76db3a4facad1f08b907f385"
+    },
+    {
+      "name": "Enchantress",
+      "version": "v0.0.0",
+      "source": null,
+      "hash": "51aa5558e57c16d9dd78e74ce10ffda62a9a82458a067be7ae4f0cc234b4195b",
+      "files": [
+        "Enchantress\\Enchantress.dll",
+        "Enchantress\\Enchantress.json",
+        "Enchantress\\Enchantress.pck"
+      ],
+      "folder_name": "Enchantress",
+      "mod_id": "Enchantress",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Enchantress_v0.0.0_89d70d5b.zip",
+      "bundle_sha256": "89d70d5b54cd2aa5733cea6e52392545d659d5171ac00cf7e54d9b75dc5be2d2"
+    },
+    {
+      "name": "Energized Spire 2.0",
+      "version": "v0.4.2",
+      "source": "github:JohnnyBazooka89/StS2ModEnergizedSpire2",
+      "hash": "0ed89d41ca098ae83dc695378f43f505c27767e4695c3159079a6aae8bbc1b18",
+      "files": [
+        "EnergizedSpire2\\EnergizedSpire2.dll",
+        "EnergizedSpire2\\EnergizedSpire2.json",
+        "EnergizedSpire2\\EnergizedSpire2.pck"
+      ],
+      "folder_name": "EnergizedSpire2",
+      "mod_id": "EnergizedSpire2",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Energized_Spire_2_0_v0.4.2_3b4c4cdb.zip",
+      "bundle_sha256": "3b4c4cdbc5df3d76515beffa5033edeb5fe716aba995ccb5297e03861ef2d8aa"
+    },
+    {
+      "name": "HS Mod",
+      "version": "1.10.4",
+      "source": null,
+      "hash": "9fa68282a9dd83c8c5d23d283fa6df5ec22d575202ce6bfe136bd7dca3906a17",
+      "files": [
+        "HSMOD\\HSMOD.dll",
+        "HSMOD\\HSMOD.json",
+        "HSMOD\\HSMOD.pck"
+      ],
+      "folder_name": "HSMOD",
+      "mod_id": "HSMOD",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/HS_Mod_v1.10.4_dd8b8268.zip",
+      "bundle_sha256": "dd8b82687f7d781d89ba0de10e70fa872cf02950b7237214bd293b9a44d41b05"
+    },
+    {
+      "name": "ironcladSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "7dc147e25772a8babb3b924b0787106afa24730b0b8c180206651bd93b1581fc",
+      "files": [
+        "ironcladSkin\\ironcladSkin.pck",
+        "ironcladSkin\\mod_manifest.json"
+      ],
+      "folder_name": "ironcladSkin",
+      "mod_id": "ironcladSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/ironcladSkin_v0.0.1_27c25741.zip",
+      "bundle_sha256": "27c257416670d40bc1d3df87eced06ad4eb70e6bf7475e20ba210472b0cff54f"
+    },
+    {
+      "name": "LegacySpire",
+      "version": "1.1.10",
+      "source": null,
+      "hash": "b43f374419e992c89a864f993a3dcd755c00f1b0f4c4e883d4c6670dbd17cadf",
+      "files": [
+        "LegacySpire\\LegacySpire.dll",
+        "LegacySpire\\LegacySpire.json",
+        "LegacySpire\\LegacySpire.pck"
+      ],
+      "folder_name": "LegacySpire",
+      "mod_id": "LegacySpire",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/LegacySpire_v1.1.10_768fe859.zip",
+      "bundle_sha256": "768fe859df5ae7714907a2d2c205ea673d6feb6205a08aca42061650e7966711"
+    },
+    {
+      "name": "Merchant2CuteII",
+      "version": "v1.4.0",
+      "source": null,
+      "hash": "bc033a114fc87261440889e5b71140cfb33a62026eabcc4f8298e31edb5ca8ca",
+      "files": [
+        "Merchant2CuteII\\Merchant2CuteII.dll",
+        "Merchant2CuteII\\Merchant2CuteII.json",
+        "Merchant2CuteII\\Merchant2CuteII.pck"
+      ],
+      "folder_name": "Merchant2CuteII",
+      "mod_id": "Merchant2CuteII",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Merchant2CuteII_v1.4.0_6743246a.zip",
+      "bundle_sha256": "6743246afa1c8b31a512f5b121ffbc988f4aee2c442697b961ef215aa7a7217a"
+    },
+    {
+      "name": "modpack_preset",
+      "version": "0.0.0",
+      "source": "github:ing-gom/Sts2SkinManager",
+      "hash": "b2bc2896efad943d7e8861ab497bfc2719e8dacde22dcd33d7dea2468fa4aa4a",
+      "files": [
+        "Sts2SkinManager\\Sts2SkinManager\\LICENSE",
+        "Sts2SkinManager\\Sts2SkinManager\\modpack_preset.json",
+        "Sts2SkinManager\\Sts2SkinManager\\README.ko.md",
+        "Sts2SkinManager\\Sts2SkinManager\\README.md",
+        "Sts2SkinManager\\Sts2SkinManager\\Sts2SkinManager.dll",
+        "Sts2SkinManager\\Sts2SkinManager\\Sts2SkinManager.json"
+      ],
+      "folder_name": "Sts2SkinManager",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/modpack_preset_v0.0.0_eae3fb62.zip",
+      "bundle_sha256": "eae3fb628b04f547df0743ed2c4d65175b3f884711263b4b401e5636c83e1687"
+    },
+    {
+      "name": "More Neow",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "b56efc2d7caadbe12c49be5050840ac077fdf33e993a6a408e56cfcbc656314c",
+      "files": [
+        "MoreNeow\\MoreNeow.dll",
+        "MoreNeow\\MoreNeow.json",
+        "MoreNeow\\MoreNeow.pck"
+      ],
+      "folder_name": "MoreNeow",
+      "mod_id": "MoreNeow",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/More_Neow_v1.0.0_45765dac.zip",
+      "bundle_sha256": "45765dac32b8bb408230440ba7da45b48820e7a85aeb929c925a8f9685a13e41"
+    },
+    {
+      "name": "moreboulder",
+      "version": "unknown",
+      "source": null,
+      "hash": "b28996a5911a535914a67e08864b4d50103bff6a79e0dbd6681615e45839f357",
+      "files": [
+        "moreboulder\\moreboulder.dll",
+        "moreboulder\\moreboulder.pck"
+      ],
+      "folder_name": "moreboulder",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/moreboulder_vunknown_c720d588.zip",
+      "bundle_sha256": "c720d5888cb90f37800b558660225459706d9c2bcac149969c502bd676adad74"
+    },
+    {
+      "name": "necrobinder-full-art.cardartpack",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "650fdcc06882f167067c799196f1a33a99b2c1881fe15aa9dbd77d2ef92d2600",
+      "files": [
+        "NecrobinderFullArt CardArtEditor Pack V0.1.2-883-0-1-2-1778856621 (1)\\CHANGELOG.md",
+        "NecrobinderFullArt CardArtEditor Pack V0.1.2-883-0-1-2-1778856621 (1)\\necrobinder-full-art.cardartpack.json",
+        "NecrobinderFullArt CardArtEditor Pack V0.1.2-883-0-1-2-1778856621 (1)\\README.md"
+      ],
+      "folder_name": "NecrobinderFullArt CardArtEditor Pack V0.1.2-883-0-1-2-1778856621 (1)",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/necrobinder-full-art_cardartpack_v0.0.0_06586017.zip",
+      "bundle_sha256": "065860176d3a8e820fbe45d7b4acebe3ac36a4bb8e62e901aa5969d80954018b"
+    },
+    {
+      "name": "NecrobinderExpand 骨妹拓展",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "900fe0d061fbeb93166304a4de37d7264c74312408da568c750ed2ecfacda2a7",
+      "files": [
+        "NecrobinderExpand\\NecrobinderExpand.dll",
+        "NecrobinderExpand\\NecrobinderExpand.json",
+        "NecrobinderExpand\\NecrobinderExpand.pck"
+      ],
+      "folder_name": "NecrobinderExpand",
+      "mod_id": "NecrobinderExpand",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/NecrobinderExpand_._v0.0.1_d6674edc.zip",
+      "bundle_sha256": "d6674edcec34d61cba94b26f970d4c473ca0dbc291bd3b48bb4cc406ee331f18"
+    },
+    {
+      "name": "necrobinderSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "df139d67cf2ccbb6258caf71c53a91a4c38c1e463b1d35b8f5788b391e546184",
+      "files": [
+        "necrobinderSkin\\mod_manifest.json",
+        "necrobinderSkin\\necrobinderSkin.pck"
+      ],
+      "folder_name": "necrobinderSkin",
+      "mod_id": "necrobinderSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/necrobinderSkin_v0.0.1_7168241c.zip",
+      "bundle_sha256": "7168241c80ee070164a37978125c399e9cc916ad4bd32c2f62b2fcf49aabc47e"
+    },
+    {
+      "name": "neowSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "00b3f3d0e6a325d7b513833d83079cbe70f133a64f0726810e398360ff31ed5b",
+      "files": [
+        "neowSkin\\neowSkin.pck",
+        "neowSkin\\neowSkinmod_manifest.json",
+        "neowSkin\\QQ20260513-223323.mp4",
+        "neowSkin\\美术版权说明.txt"
+      ],
+      "folder_name": "neowSkin",
+      "mod_id": "neowSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/neowSkin_v0.0.1_4d1f6db5.zip",
+      "bundle_sha256": "4d1f6db54b885726eb708c449077212a7c8ce4415adbc4f2e660659c884cc1c1"
+    },
+    {
+      "name": "Overlord Laharl",
+      "version": "v0.9.3",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "2c5426bc9a48482e5a0e3b5acc14485dd4173538e4acb62d53e508aeecb2be2f",
+      "files": [
+        "Laharl\\Laharl.dll",
+        "Laharl\\Laharl.json",
+        "Laharl\\Laharl.pck"
+      ],
+      "folder_name": "Laharl",
+      "mod_id": "Laharl",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Overlord_Laharl_v0.9.3_61322444.zip",
+      "bundle_sha256": "613224444ea0b0b09943c3ab6f318d1903925154c3e62a8c2240aa97abc0f548"
+    },
+    {
+      "name": "P9",
+      "version": "v0.2.6",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "0f455df41e12cb5cc35da76e386d491c84b3f8c30872595f36b47b1b162dfb2e",
+      "files": [
+        "P9\\P9.dll",
+        "P9\\p9.json",
+        "P9\\P9.pck"
+      ],
+      "folder_name": "P9",
+      "mod_id": "P9",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/P9_v0.2.6_1cded699.zip",
+      "bundle_sha256": "1cded6994a43d1e355196bb472412d6c7e2a009222a606328e9b0cdd3699a342"
+    },
+    {
+      "name": "Painter",
+      "version": "0.32",
+      "source": "github:manycore-maas/Painter",
+      "hash": "b933db75f0c8dbe00516ca5df2371e7334923dd27b055fa80f3cc4b1680afd2b",
+      "files": [
+        "Painter\\Painter.dll",
+        "Painter\\Painter.json",
+        "Painter\\Painter.pck"
+      ],
+      "folder_name": "Painter",
+      "mod_id": "Painter",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Painter_v0.32_b8e2cb29.zip",
+      "bundle_sha256": "b8e2cb2933f9696673ecfe90af46065581af9fcbc6f8ee7edfe4f5192be90e14"
+    },
+    {
+      "name": "PermaProg",
+      "version": "v0.6.2",
+      "source": "github:DeveloperTor/permaprog",
+      "hash": "86d869dce8c07a4cdd11c4daee060186fcd18a819187e12b7d9ae2e63aaa95af",
+      "files": [
+        "PermaProg\\PermaProg.dll",
+        "PermaProg\\PermaProg.json",
+        "PermaProg\\PermaProg.pck"
+      ],
+      "folder_name": "PermaProg",
+      "mod_id": "PermaProg",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/PermaProg_v0.6.2_95c618ba.zip",
+      "bundle_sha256": "95c618bae2fd9e5d254e49e27547baafe44eb840e2f7e2b69459e7f59fa890a7"
+    },
+    {
+      "name": "Poseidon Ancient",
+      "version": "v0.1.5",
+      "source": "github:JohnnyBazooka89/StS2ModPoseidonAncient",
+      "hash": "aadd16d85185c9dd0cd8c4f2631ef68e4df645ce28147fba3917874c0b4999e4",
+      "files": [
+        "PoseidonAncient\\PoseidonAncient.dll",
+        "PoseidonAncient\\PoseidonAncient.json",
+        "PoseidonAncient\\PoseidonAncient.pck"
+      ],
+      "folder_name": "PoseidonAncient",
+      "mod_id": "PoseidonAncient",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Poseidon_Ancient_v0.1.5_3c1e7c39.zip",
+      "bundle_sha256": "3c1e7c39e982f406fcabe3de852fea49b2f351320bd3ba3b361fdc3b353d262a"
+    },
+    {
+      "name": "Princess",
+      "version": "v0.0.1",
+      "source": "github:LazyDeveloperr/LazyPrincess",
+      "hash": "b0cf0c0dc43713605797781826c9f8b810fbadd43c4d91365d29dde3ca25b57b",
+      "files": [
+        "Princess\\Princess.dll",
+        "Princess\\Princess.json",
+        "Princess\\Princess.pck",
+        "Princess\\Princess.pdb"
+      ],
+      "folder_name": "Princess",
+      "mod_id": "Princess",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Princess_v0.0.1_b1fe5b52.zip",
+      "bundle_sha256": "b1fe5b52e675277faabe69acc1de09cedf1e42ae9d3aed3f22ea98bb88fa9aad"
+    },
+    {
+      "name": "Quick Restart",
+      "version": "v0.1.1",
+      "source": "github:freude916/sts2-quickRestart",
+      "hash": "6d953c868ee337e5b46a5fdc49e4f172f93e618343b9c75e53cff5d448e46d57",
+      "files": [
+        "QuickRestart\\QuickRestart.dll",
+        "QuickRestart\\QuickRestart.json"
+      ],
+      "folder_name": "QuickRestart",
+      "mod_id": "QuickRestart",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Quick_Restart_v0.1.1_bb5e9f91.zip",
+      "bundle_sha256": "bb5e9f91e897676382325d995b3f1710aed102287d1308b7df55c1825f405b7c"
+    },
+    {
+      "name": "RegentFemPortraits",
+      "version": "v0.6.0",
+      "source": "github:Divank122/UltimateSilentCardExpansion-STS2",
+      "hash": "c71de4b1f39b2176343c14b2f6f10f431f9f2ebc1c0d52fb27157a2cb6c92035",
+      "files": [
+        "RegentFemPortraits\\RegentFemPortraits.dll",
+        "RegentFemPortraits\\RegentFemPortraits.json",
+        "RegentFemPortraits\\RegentFemPortraits.pck"
+      ],
+      "folder_name": "RegentFemPortraits",
+      "mod_id": "RegentFemPortraits",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/RegentFemPortraits_v0.6.0_b2547a05.zip",
+      "bundle_sha256": "b2547a05cdf65cda2773e3d9bb3de5c1e9ebb4da665f10bf7c022fb9d9b3d2cb"
+    },
+    {
+      "name": "regentSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "aa362fb5d7bbfcac08ede4c7390eab436fc9ab33903b3b05dcaed42bd7abe280",
+      "files": [
+        "regentSkin\\mod_manifest.json",
+        "regentSkin\\regentSkin.pck"
+      ],
+      "folder_name": "regentSkin",
+      "mod_id": "regentSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/regentSkin_v0.0.1_80480e71.zip",
+      "bundle_sha256": "80480e71fc74f413a107aa66c8103e0ab7d052909229d3092976b271cde5131c"
+    },
+    {
+      "name": "Relic Reward Choice",
+      "version": "1.7.4",
+      "source": null,
+      "hash": "d09aacb969d7137957944a725083962e015357ba101f913df1bc215ea1648ff7",
+      "files": [
+        "RelicRewardChoice\\RelicRewardChoice.dll",
+        "RelicRewardChoice\\RelicRewardChoice.json",
+        "RelicRewardChoice\\RelicRewardChoice.pdb"
+      ],
+      "folder_name": "RelicRewardChoice",
+      "mod_id": "RelicRewardChoice",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.4_6ef51a48.zip",
+      "bundle_sha256": "6ef51a48978832c49e9a00ba7b40547ef02151ec3f8b52361fb581d4c029cfec"
+    },
+    {
+      "name": "RememberCardSort",
+      "version": "v0.1.2",
+      "source": null,
+      "hash": "a36010fc6821978ff172f1f2eceb930e9561e8909278d6112cf7a2274ae493d2",
+      "files": [
+        "RememberCardSort\\RememberCardSort.dll",
+        "RememberCardSort\\RememberCardSort.json",
+        "RememberCardSort\\RememberCardSort.pck"
+      ],
+      "folder_name": "RememberCardSort",
+      "mod_id": "RememberCardSort",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/RememberCardSort_v0.1.2_3b4afa0d.zip",
+      "bundle_sha256": "3b4afa0d42e3e0f914ac5edb63f04946a2aa4ee71ac0b25692a0128ee9ec26e1"
+    },
+    {
+      "name": "Remilia",
+      "version": "v0.0.1",
+      "source": "github:Elliott-Green/remilia-drops",
+      "hash": "6bb5ff1e59dead8bd4179bb0834ef2ca9a829b68fe153add93ce9d236a5a32ea",
+      "files": [
+        "Remilia\\Remilia.dll",
+        "Remilia\\Remilia.json",
+        "Remilia\\Remilia.pck"
+      ],
+      "folder_name": "Remilia",
+      "mod_id": "Remilia",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Remilia_v0.0.1_e3aa1fd1.zip",
+      "bundle_sha256": "e3aa1fd1061ec0a2efe5db4b64663204538451c974bab555fba3e0176d218d30"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.2.31",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "833be04dcf60f50dacc6d6bc98f67ca0c4f6747b46cbc0ee2b439a87c833c13e",
+      "files": [
+        "STS2-RitsuLib\\compat-target.txt",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\STS2-RitsuLib.xml"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.2.31_f633467c.zip",
+      "bundle_sha256": "f633467ce1ff395d1801ecaa77fdcef2d535cbe451065ae83aa106b6a8e020f3"
+    },
+    {
+      "name": "ScavengerLord",
+      "version": "v0.0.0",
+      "source": null,
+      "hash": "e6eb94a308178ac102532f2a776e2b3ef79fe0023dae38e3dd682b46fec893ef",
+      "files": [
+        "ScavengerLord\\ScavengerLord.dll",
+        "ScavengerLord\\ScavengerLord.json",
+        "ScavengerLord\\ScavengerLord.pck"
+      ],
+      "folder_name": "ScavengerLord",
+      "mod_id": "ScavengerLord",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/ScavengerLord_v0.0.0_7ca90939.zip",
+      "bundle_sha256": "7ca9093970d789c8eb473e12b5ecf2c18be42d045a925812235b2d23ff7eb2fa"
+    },
+    {
+      "name": "SealsRegalSneckoEye",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "e002a9641f317993785f56da4ea4f4d97d3dca9153365e199bcfed99dc76c90d",
+      "files": [
+        "SealsRegalSneckoEye\\SealsRegalSneckoEye.dll",
+        "SealsRegalSneckoEye\\SealsRegalSneckoEye.json",
+        "SealsRegalSneckoEye\\SealsRegalSneckoEye.pck"
+      ],
+      "folder_name": "SealsRegalSneckoEye",
+      "mod_id": "SealsRegalSneckoEye",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/SealsRegalSneckoEye_v1.0.1_3ebdd1ad.zip",
+      "bundle_sha256": "3ebdd1ad034d17b13ed96c9f670faac9db83e4a60b45385e7c8fc98ef6a53b0a"
+    },
+    {
+      "name": "SealsStampablePowers",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "4adc61a29beb6fa88f17c7f91b6920d53185cde83fa63fd459629cc9508f2b9a",
+      "files": [
+        "SealsStampablePowers\\SealsStampablePowers.dll",
+        "SealsStampablePowers\\SealsStampablePowers.json",
+        "SealsStampablePowers\\SealsStampablePowers.pck"
+      ],
+      "folder_name": "SealsStampablePowers",
+      "mod_id": "SealsStampablePowers",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/SealsStampablePowers_v1.0.1_081e9799.zip",
+      "bundle_sha256": "081e9799f2e77e37ecc0e74dbf47a714a88bb396c5bfe51e33fdc6a1117c08be"
+    },
+    {
+      "name": "Secret Script",
+      "version": "v1.0.0",
+      "source": "github:BSchneppe/sts2-secret-script",
+      "hash": "8e2b955291479612038d929d0036ad4c575a4973034387b93bdeaddc81b17eb8",
+      "files": [
+        "SecretScript\\SecretScript.dll",
+        "SecretScript\\SecretScript.json",
+        "SecretScript\\SecretScript.pck"
+      ],
+      "folder_name": "SecretScript",
+      "mod_id": "SecretScript",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Secret_Script_v1.0.0_6489f17e.zip",
+      "bundle_sha256": "6489f17e003d9c35d769e1c4f736d9bb6300e7d74d883be6635e0dc38afcfe16"
+    },
+    {
+      "name": "silentSkin",
+      "version": "0.0.1",
+      "source": null,
+      "hash": "b137ebd5dde9fbf07adba96cf898e217d88453395dbf6a91c9ce1966819210d3",
+      "files": [
+        "silentSkin\\mod_manifest.json",
+        "silentSkin\\silentSkin.pck"
+      ],
+      "folder_name": "silentSkin",
+      "mod_id": "silentSkin",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/silentSkin_v0.0.1_60dd8ab0.zip",
+      "bundle_sha256": "60dd8ab001fcad479692c0a4fd725632080a50abfb9a1b53a677270f26a23536"
+    },
+    {
+      "name": "The Artist",
+      "version": "v0.1.0",
+      "source": "github:LukasStruppek/Rickrolling-the-Artist",
+      "hash": "30d83b35c110967c3b66d7fb2dd39fa26373e87b98ca0ed3966dbfa147de0779",
+      "files": [
+        "TheArtist\\TheArtist.dll",
+        "TheArtist\\TheArtist.json",
+        "TheArtist\\TheArtist.pck"
+      ],
+      "folder_name": "TheArtist",
+      "mod_id": "TheArtist",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/The_Artist_v0.1.0_bb641258.zip",
+      "bundle_sha256": "bb641258da1c59c3fcf0f7641453af3a99135ff1c5c94a0ce6e9ad6279f7ce45"
+    },
+    {
+      "name": "The Cursed",
+      "version": "v0.2.7",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "73598cc7da981765395f9ea9b8db4cf1f1bc27193b6c775e244cbd57c22dfdc0",
+      "files": [
+        "TheCursedMod\\TheCursedMod.dll",
+        "TheCursedMod\\TheCursedMod.json",
+        "TheCursedMod\\TheCursedMod.pck"
+      ],
+      "folder_name": "TheCursedMod",
+      "mod_id": "TheCursedMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/The_Cursed_v0.2.7_a4815353.zip",
+      "bundle_sha256": "a481535344eea09027c1e0ddbff0ee3624af0883ccbb86000ea58a5bc62fae9e"
+    },
+    {
+      "name": "The Defect - Card art mod",
+      "version": "v0.01",
+      "source": null,
+      "hash": "896117fe6b63f1b39144a35fedbf8d42232109f402a085ea283f1d397f8aa760",
+      "files": [
+        "TheDefectCardArtMod\\TheDefectCardArtMod.dll",
+        "TheDefectCardArtMod\\TheDefectCardArtMod.json",
+        "TheDefectCardArtMod\\TheDefectCardArtMod.pck"
+      ],
+      "folder_name": "TheDefectCardArtMod",
+      "mod_id": "TheDefectCardArtMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/The_Defect_-_Card_art_mod_v0.01_ad38c0af.zip",
+      "bundle_sha256": "ad38c0afdfa894dc4b222aa383ef962775e3af0e27d0fe84db43609c1afc5c60"
+    },
+    {
+      "name": "The Hermit",
+      "version": "v2.0.0",
+      "source": null,
+      "hash": "6c7f9959d889e0b5062b1c8f8e3b7183ecf3e5d816224214c6d2ecf99a9c550f",
+      "files": [
+        "HermitMod\\HermitMod.dll",
+        "HermitMod\\HermitMod.json",
+        "HermitMod\\HermitMod.pck"
+      ],
+      "folder_name": "HermitMod",
+      "mod_id": "HermitMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/The_Hermit_v2.0.0_a946e8f9.zip",
+      "bundle_sha256": "a946e8f92db20ddd6da1ad8908c5d22076a2d23d1a65495dc421f0b65d6af3a3"
+    },
+    {
+      "name": "The Immortal（藤原妹红）",
+      "version": "v1.0.2",
+      "source": null,
+      "hash": "9b9a3530d6ef3eab3337e31c1bad9b208c4571a204dfd009b72a653d10e6e9ff",
+      "files": [
+        "MokouMod\\MokouMod.dll",
+        "MokouMod\\MokouMod.json",
+        "MokouMod\\MokouMod.pck",
+        "MokouMod\\MokouMod.pdb"
+      ],
+      "folder_name": "MokouMod",
+      "mod_id": "MokouMod",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/The_Immortal._v1.0.2_e485cf63.zip",
+      "bundle_sha256": "e485cf634deef6886769f51bfa70d7f01137293062b439d033729f55ae364cf7"
+    },
+    {
+      "name": "thekingsdecree",
+      "version": "unknown",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "d1ba7d8394e59eab5810cad7921dbfdab8f6e1cdd66a77fb1f832181d8d2d048",
+      "files": [
+        "thekingsdecree\\thekingsdecree.dll",
+        "thekingsdecree\\thekingsdecree.pck"
+      ],
+      "folder_name": "thekingsdecree",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/thekingsdecree_vunknown_4ff5619b.zip",
+      "bundle_sha256": "4ff5619bee19df4e6154d414b81ca98e501007b69547336bc81c0e3e4c9e8219"
+    },
+    {
+      "name": "Transform Or Banish",
+      "version": "1.3.4",
+      "source": null,
+      "hash": "ce59d6eba7657f8db5591ab1fadc0be8cc1f73c5aedecf202ad679c32a61edfd",
+      "files": [
+        "TransformOrBanish\\TransformOrBanish.dll",
+        "TransformOrBanish\\TransformOrBanish.json",
+        "TransformOrBanish\\TransformOrBanish.pck"
+      ],
+      "folder_name": "TransformOrBanish",
+      "mod_id": "TransformOrBanish",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Transform_Or_Banish_v1.3.4_555ae3c3.zip",
+      "bundle_sha256": "555ae3c3960095ce397aa6a2b68cf3f77c4234f63087a04e41e21ffc9b46d2cf"
+    },
+    {
+      "name": "Trophy Boutique",
+      "version": "0.7.1",
+      "source": null,
+      "hash": "b69eee276430c3d66f7429f1fa66bcfdb61b179f95601c9ec96856c00794d14d",
+      "files": [
+        "TrophyBoutique\\TrophyBoutique.dll",
+        "TrophyBoutique\\TrophyBoutique.json",
+        "TrophyBoutique\\TrophyBoutique.pck"
+      ],
+      "folder_name": "TrophyBoutique",
+      "mod_id": "TrophyBoutique",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Trophy_Boutique_v0.7.1_e67c45d2.zip",
+      "bundle_sha256": "e67c45d24e1da2da13201a692be4ef9ea469c764345985be85921c70d88df723"
+    },
+    {
+      "name": "tweakPack",
+      "version": "unknown",
+      "source": "github:Gibberlings3/Jasteys_SoD_Tweakpack",
+      "hash": "126ad8a2713f39d0405dd156136a2d0388817c05c9decf0793c9520db89bc301",
+      "files": [
+        "tweakPack\\tweakPack.dll",
+        "tweakPack\\tweakPack.pck"
+      ],
+      "folder_name": "tweakPack",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/tweakPack_vunknown_3c3b1dc1.zip",
+      "bundle_sha256": "3c3b1dc1a6d9e3b4765bcd36a40c0b412ccb09adaaa05e658568498dff693957"
+    },
+    {
+      "name": "VoiceMod",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "9e564fb4abe4435eb983ebd0f9acd9f74ee364d4af54fce2e1f7b29a898f8350",
+      "files": [
+        "regentvoicemod\\mod_manifest.json",
+        "regentvoicemod\\VoiceMod.dll",
+        "regentvoicemod\\VoiceMod.pck"
+      ],
+      "folder_name": "regentvoicemod",
+      "mod_id": "voicemod",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/VoiceMod_v1.0.0_b6881843.zip",
+      "bundle_sha256": "b6881843c1335d402d0e2bf262202da39bb9b49737a13937e3eebecaaced9872"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.4",
+      "source": "github:lamali292/WatcherMod",
+      "hash": "514f3c1f45706b74453fc829330c95869c01f9699e8cbfd382f4f4cc94a053be",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.4_4f7697e5.zip",
+      "bundle_sha256": "4f7697e5444ee938ef6e15b46a50bd4c7e60f31d45efa51c9eab38092ab4344a"
+    },
+    {
+      "name": "万象辉星[RegentFX]",
+      "version": "0.3.0",
+      "source": null,
+      "hash": "cfadb28dcdb59955b20bab96387edea1063b99f6af0dedf9fe9acd1060cff7fa",
+      "files": [
+        "RegentFX\\RegentFX.dll",
+        "RegentFX\\RegentFX.json",
+        "RegentFX\\RegentFX.pck"
+      ],
+      "folder_name": "RegentFX",
+      "mod_id": "RegentFX",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/RegentFX._v0.3.0_f17a2010.zip",
+      "bundle_sha256": "f17a201086487ebefdbf681aa577df12c985ffaa3c5b0d28c752ccf2db588e8d"
+    },
+    {
+      "name": "东风谷早苗",
+      "version": "0.5.0",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "59f3e0d312e4563bcf8a64129c1d6014e4f5d353713a923cdcd55745345d7817",
+      "files": [
+        "Kochiya_Sanae\\Kochiya_Sanae.dll",
+        "Kochiya_Sanae\\Kochiya_Sanae.json",
+        "Kochiya_Sanae\\Kochiya_Sanae.pck"
+      ],
+      "folder_name": "Kochiya_Sanae",
+      "mod_id": "Kochiya_Sanae",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/_v0.5.0_185a81c9.zip",
+      "bundle_sha256": "185a81c9cfa3b264d4dbd07d15e78e9a201ee39264a5e99312f08b56652441c5"
+    },
+    {
+      "name": "史上最好的猎手卡牌扩展 | Ultimate Silent Card Expansion",
+      "version": "0.2.0-beta105",
+      "source": "github:Divank122/UltimateSilentCardExpansion-STS2",
+      "hash": "ea6cb7fb6a358c8ebaf68a27052f1d4fe1fc16ed8818117220e5cf04a493e4a2",
+      "files": [
+        "UltimateSilentCardExpansion\\UltimateSilentCardExpansion.dll",
+        "UltimateSilentCardExpansion\\UltimateSilentCardExpansion.json",
+        "UltimateSilentCardExpansion\\UltimateSilentCardExpansion.pck"
+      ],
+      "folder_name": "UltimateSilentCardExpansion",
+      "mod_id": "UltimateSilentCardExpansion",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/___Ultimate_Silent_Card_Expansion_v0.2.0-beta105_329b34c6.zip",
+      "bundle_sha256": "329b34c6756e00fe6aa2e49162597a5bc349d5ebbe82e1fa112c2647f1d5596d"
+    },
+    {
+      "name": "皮皮倒带: Rewind",
+      "version": "0.26.10",
+      "source": "github:gilesbowkett/rewind",
+      "hash": "e7997dafbcbb9870e6feea6577241fb6727d520c78f1e1b742ed3cfeb175f26f",
+      "files": [
+        "Rewind\\Rewind.dll",
+        "Rewind\\Rewind.json",
+        "Rewind\\Rewind.pck"
+      ],
+      "folder_name": "Rewind",
+      "mod_id": "Rewind",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.10_8b10e93a.zip",
+      "bundle_sha256": "8b10e93a8e7db87883c6e21b0045c94db34b2eb3d8ae167eb7960e389ed7d610"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": "github:xhyrzldf/ModConfig-STS2",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": false,
+      "bundle_url": "https://github.com/FloraColossus/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_6d7b1d04.zip",
+      "bundle_sha256": "6d7b1d046b36882cd2892012af95b47a7827b8cc6f828e07c016e1441729ddae"
+    }
+  ],
+  "created_at": "2026-05-15T01:48:59.087059200Z",
+  "updated_at": "2026-05-18T12:29:09.769137100Z",
+  "public": false
+}
